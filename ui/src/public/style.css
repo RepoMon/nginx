@@ -1,0 +1,23 @@
+* {
+    font-family: "Helvetica";
+}
+
+.repository-active {
+    color: #2b81af;
+}
+
+.repository {
+    padding: 6px;
+}
+
+.repository-name {
+    font-size: 18pt;
+}
+
+.repository-description {
+    font-size: 14pt;
+}
+
+#footer {
+    font-size: x-small;
+}
